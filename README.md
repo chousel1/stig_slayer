@@ -1,4 +1,4 @@
-# STIG Slayer
+# STIG Surge
 
 A standalone browser-based editor, comparison tool, and AI-assisted analysis platform for DISA STIG Checklist (`.cklb`) files.
 
@@ -10,7 +10,7 @@ A standalone browser-based editor, comparison tool, and AI-assisted analysis pla
 
 ## Overview
 
-STIG Slayer is a client-side web application designed to simplify the management of DISA STIG Checklists (CKLB files). It allows analysts, system administrators, auditors, and compliance teams to view, edit, compare, and update STIG checklists without requiring installation of additional software.
+STIG Surge is a client-side web application designed to simplify the management of DISA STIG Checklists (CKLB files). It allows analysts, system administrators, auditors, and compliance teams to view, edit, compare, and update STIG checklists without requiring installation of additional software.
 
 The application runs entirely within a modern web browser and does not require a backend server for core functionality.
 
@@ -136,7 +136,7 @@ Organizations are responsible for ensuring that data sent to AI services complie
 
 ### Loading Checklists
 
-1. Open STIG Slayer in your browser.
+1. Open STIG Surge in your browser.
 2. Select the desired workspace.
 3. Load one or more `.cklb` files.
 4. Begin editing, comparing, or analyzing.
