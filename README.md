@@ -16,6 +16,9 @@ The application runs entirely within a modern web browser and does not require a
 
 ---
 
+<img width="1878" height="1150" alt="stig_slayer" src="https://github.com/user-attachments/assets/ab13846b-9c4f-44ac-adab-8f4deaad8ea4" />
+
+
 ## Features
 
 ### CKLB Editing
